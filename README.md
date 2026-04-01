@@ -50,45 +50,51 @@ after downloading and moving the download into a folder you created(Any name)
 
 click on the bedrock server.zip to extract it in the folder 
 
+***************************
 (Linux)
 when inside the bedrock created folder (bedrock-server-x.x.x) inside here there should be a file called bedrock_server run it once to get the required files 
 needed for the server to work.
 (WINDOWS HAS EXE AND THIS DOES NOT NEED TO BE DONE AS THE EXE WILL DO IT FOR YOU)
-
+***************************
 
 when that is done you can go into the folder with all the server files you just created and open a command line(LINUX) and type LD_LIBRARY_PATH. ./bedrock_server
 *You can go into the server.properties text file and change the name and dec what will show when the server pops up.
 
+***************************
 recommended settings for server prop to prevent spamming.
 LINE 31    Online-mode= false(SENSE A XBOX MS ACCOUNT CANNOT BE USED THIS XUID CHECK HAS TO BE TURNED OFF)
 LINE 126   CHAT-RESTRICTION=DISABLED(chat causes game and server crashing disable to prevent this)
 LINE 64    Idle time out =default is 30 I change it to 120 or 0
 LINE 72    Level name map1 to map999 for map changing without deleting
 LINE 41-45 if port fails change the last number(Go up by X ammount)
+***************************
 
+***************************
 Server name color system.
-§ 1 - Dark Blue
-§ 4 - Dark Red
-§ a - Green
-§ c - Red
-§ e - Yellow
-§ l - Bold
-§ n - Underline
-§ r - Reset (clears previous formatting).
+§1 - Dark Blue
+§4 - Dark Red
+§a - Green
+§c - Red
+§e - Yellow
+§l - Bold
+§n - Underline
+§r - Reset (clears previous formatting).
+***************************
 
+Friends proceed below here to join after server setup.
 
-
+***************************
 when the server is loaded and running the way you want it to be you can now get your friends in.
 (Make sure they have the patches installed and working.)
 
 give them this command and tell them to save it as a .bat file
-
 They need to download phantom CLI link is near the bottom of this doc.
 
+***************************
 *phantom-windows -server(x.x.x.x :1913X)                
                       your external ip: server port number ipv4/6
 						(Server hoster)
-
+***************************
 
 when they have that added to a text doc with notepad or notepad++ save it as a .bat file using all files.
 (Have them save this file in a safe place as they will need it every time they join the server)
