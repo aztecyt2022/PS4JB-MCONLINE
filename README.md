@@ -21,12 +21,12 @@ GOLDHEN INSTALL PART.
 Use the location above and install the patches.
 enable game patch plugin option under plugin settings
 update patch archive if you want but it is not needed for this
-select patch selection to installed games only to save some memory
+select patch.
 
 
 PS4 CHEATS MANAGER PART
 go to the patches tab and look for minecraft
-selecy it and enable the following
+select it and enable the following
  
 enable user switced to microsoft always
 playform xbox 
