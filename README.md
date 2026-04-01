@@ -57,7 +57,7 @@ needed for the server to work.
 (WINDOWS HAS EXE AND THIS DOES NOT NEED TO BE DONE AS THE EXE WILL DO IT FOR YOU)
 ***************************
 
-when that is done you can go into the folder with all the server files you just created and open a command line(LINUX) and type LD_LIBRARY_PATH=. ./bedrock_server
+when that is done you can go into the folder with all the server files you just created and open a command line(LINUX) and type LD_LIBRARY_PATH=. space ./bedrock_server
 *You can go into the server.properties text file and change the name and dec what will show when the server pops up.
 
 ***************************
