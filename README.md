@@ -66,7 +66,7 @@ LINE 31    Online-mode= false(SENSE A XBOX MS ACCOUNT CANNOT BE USED THIS XUID C
 LINE 126   CHAT-RESTRICTION=DISABLED(chat causes game and server crashing disable to prevent this)
 LINE 64    Idle time out =default is 30 I change it to 120 or 0
 LINE 72    Level name map1 to map999 for map changing without deleting
-LINE 41-45 if port fails change the last number(Go up by X ammount)
+LINE 41-45 if port fails change the last number(Go up by X amount)
 ***************************
 
 ***************************
@@ -93,7 +93,6 @@ They need to download phantom CLI link is near the bottom of this doc.
 ***************************
 *phantom-windows -server(x.x.x.x :1913X)                
                       your external ip: server port number ipv4/6
-						(Server hoster)
 ***************************
 
 when they have that added to a text doc with notepad or notepad++ save it as a .bat file using all files.
