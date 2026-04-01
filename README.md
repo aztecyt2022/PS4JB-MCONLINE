@@ -38,6 +38,7 @@ V1 AND V2 ARE OPTIONAL.
 *
 
 save and exit then proceed with the steps below.
+friends joining the server do not need to do the step below.
 
 
 ***************************
