@@ -133,6 +133,10 @@ FOR FRIENDS TO JOIN(FREE)
 https://github.com/jhead/phantom/releases
 
 
+I did not feel comfortable sharing this file.
+I dont want no issues so I am playing it safe.
+
+
 
 server list
 https://jars.vexyhost.com/
