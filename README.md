@@ -85,7 +85,7 @@ Notice:
 ***************************
 If you pick a different server you can use any public server on 1.21.81.X
 some mod servers can work to but I have never attempted.
-use aternos if you want a pick a server...
+use aternos if you want a custom server with an easier install...
 ***************************
 
 when they have that added to a text doc with notepad or notepad++ save it as a .bat file using all files.
