@@ -79,6 +79,13 @@ They need to download phantom CLI link is near the bottom of this doc.
                       your external ip: server port number ipv4/6
 						(Server hoster)
 
+Notice:
+If you pick a different server you can use any public server on 1.21.81.X
+some mod servers can work to but I have never attempted.
+use aternos if you want a pick a server...
+
+
+
 
 when they have that added to a text doc with notepad or notepad++ save it as a .bat file using all files.
 (Have them save this file in a safe place as they will need it every time they join the server)
