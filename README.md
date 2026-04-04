@@ -54,13 +54,23 @@ TYPO IN THE COMMAND HAS BEEN FIXED IT SHOULD NOW WORK CORRECLY SORRY.
 when that is done you can go into the folder with all the server files you just created and open a command line(LINUX) and type LD_LIBRARY_PATH=. ./bedrock_server
 *You can go into the server.properties text file and change the name and dec what will show when the server pops up.
 
-recommended settings for server prop to prevent spamming.
-LINE 31    Online-mode= false(SENSE A XBOX MS ACCOUNT CANNOT BE USED THIS XUID CHECK HAS TO BE TURNED OFF)
-LINE 126   CHAT-RESTRICTION=DISABLED(chat causes game and server crashing disable to prevent this)
-LINE 64    Idle time out =default is 30 I change it to 120 or 0
-LINE 72    Level name map1 to map999 for map changing without deleting
-LINE 41-45 if port fails change the last number(Go up by X ammount)
 
+
+
+
+**
+recommended settings for server prop to prevent spamming.
+**
+LINE 31    Online-mode= false(SENSE A XBOX MS ACCOUNT CANNOT BE USED THIS XUID CHECK HAS TO BE TURNED OFF)
+**
+LINE 126   CHAT-RESTRICTION=DISABLED(chat causes game and server crashing disable to prevent this)
+**
+LINE 64    Idle time out =default is 30 I change it to 120 or 0
+**
+LINE 72    Level name map1 to map999 for map changing without deleting
+**
+LINE 41-45 if port fails change the last number(Go up by X ammount)
+**
 
 
 
