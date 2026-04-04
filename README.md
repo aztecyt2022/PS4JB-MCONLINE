@@ -10,30 +10,32 @@ On the ps4 move the provided xml file into the data/goldhen/patches/xml
 
 GOLDHEN INSTALL PART.
 Use the location above and install the patches.
-enable game patch plugin option under plugin settings
-update patch archive if you want but it is not needed for this
+enable game patch plugin option under plugin settings(In goldhen)
+update patch archive if you want. (not a requirement for this)
 select patch selection to installed games only to save some memory
 
 
 PS4 CHEATS MANAGER PART
-go to the patches tab and look for minecraft
-selecy it and enable the following
- 
+go to the patches tab and look for minecraft(Filter for easier searching)
+select it and enable the following
+
+***************************
+Enable these options
+***************************
+
 enable user switced to microsoft always
 playform xbox 
 sony MP restrictions bypass
 
-*
-V1 AND V2 ARE OPTIONAL.
-(If enabled do not disable it may cause save data corruption)
-*
+OPTIONAL
+V1 AND V2 Priv.
 
 save and exit then proceed with the steps below.
 
 
-***************************
-SERVER INSTALL BELOW HERE**
-***************************
+*****************************
+**SERVER INSTALL BELOW HERE**
+*****************************
 
 after downloading and moving the download into a folder you created(Any name)
 
@@ -41,12 +43,15 @@ after downloading and moving the download into a folder you created(Any name)
 click on the bedrock server.zip to extract it in the folder 
 
 (Linux)
-when inside the bedrock created folder (bedrock-server-x.x.x) inside here there should be a file called bedrock_server run it once to get the required files 
+when inside the bedrock created folder (bedrock-server-x.x.x) inside here there should be a file called bedrock_server double click to get the required files 
+
 needed for the server to work.
 (WINDOWS HAS EXE AND THIS DOES NOT NEED TO BE DONE AS THE EXE WILL DO IT FOR YOU)
 
-
-when that is done you can go into the folder with all the server files you just created and open a command line(LINUX) and type LD_LIBRARY_PATH. ./bedrock_server
+********************************
+TYPO IN THE COMMAND HAS BEEN FIXED IT SHOULD NOW WORK CORRECLY SORRY.
+********************************
+when that is done you can go into the folder with all the server files you just created and open a command line(LINUX) and type LD_LIBRARY_PATH=. ./bedrock_server
 *You can go into the server.properties text file and change the name and dec what will show when the server pops up.
 
 recommended settings for server prop to prevent spamming.
@@ -55,6 +60,9 @@ LINE 126   CHAT-RESTRICTION=DISABLED(chat causes game and server crashing disabl
 LINE 64    Idle time out =default is 30 I change it to 120 or 0
 LINE 72    Level name map1 to map999 for map changing without deleting
 LINE 41-45 if port fails change the last number(Go up by X ammount)
+
+
+
 
 Server name color system.
 § 1 - Dark Blue
@@ -132,10 +140,10 @@ https://github.com/bucanero/PS4CheatsManager/releases/tag/v1.2.2
 FOR FRIENDS TO JOIN(FREE)
 https://github.com/jhead/phantom/releases
 
-
+********************************************
 I did not feel comfortable sharing this file.
 I dont want no issues so I am playing it safe.
-
+********************************************
 
 
 server list
