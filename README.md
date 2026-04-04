@@ -1,10 +1,11 @@
 How to run the server from a pc.
 
+
 1.21.81 bedrock ps4 mcv3.12
 
-***************************
-GAME INSTALL AND PATCHING**
-***************************
+*********************************************
+**************GAME INSTALL AND PATCHING**************
+*********************************************
 
 On the ps4 move the provided xml file into the data/goldhen/patches/xml 
 
@@ -19,9 +20,9 @@ PS4 CHEATS MANAGER PART
 go to the patches tab and look for minecraft(Filter for easier searching)
 select it and enable the following
 
-***************************
-Enable these options
-***************************
+****************************
+****Enable these options****
+****************************
 
 enable user switced to microsoft always
 playform xbox 
@@ -55,51 +56,64 @@ when that is done you can go into the folder with all the server files you just 
 *You can go into the server.properties text file and change the name and dec what will show when the server pops up.
 
 
-
-
-
-**
+*********************************************************************************************
+server property changes 
+*********************************************************************************************
 recommended settings for server prop to prevent spamming.
-**
+
 LINE 31    Online-mode= false(SENSE A XBOX MS ACCOUNT CANNOT BE USED THIS XUID CHECK HAS TO BE TURNED OFF)
-**
+
 LINE 126   CHAT-RESTRICTION=DISABLED(chat causes game and server crashing disable to prevent this)
-**
+
 LINE 64    Idle time out =default is 30 I change it to 120 or 0
-**
+
 LINE 72    Level name map1 to map999 for map changing without deleting
-**
+
 LINE 41-45 if port fails change the last number(Go up by X ammount)
-**
-
-
+************************************************************
 
 Server name color system.
+
 § 1 - Dark Blue
+
 § 4 - Dark Red
+
 § a - Green
+
 § c - Red
+
 § e - Yellow
+
 § l - Bold
+
 § n - Underline
+
 § r - Reset (clears previous formatting).
 
 
 
+************************************************************
+FRIEND SETUP AND JOINING
+************************************************************
 when the server is loaded and running the way you want it to be you can now get your friends in.
 (Make sure they have the patches installed and working.)
 
 give them this command and tell them to save it as a .bat file
 
-They need to download phantom CLI link is near the bottom of this doc.
 
+Your friend will need to download phantom CLI link is near the bottom of this doc.
+you can use this for joining other servers also.
+they must have xuid checking off or use another account checker.
+server must be in ip format.
+************************************************************
 *phantom-windows -server(x.x.x.x :1913X)                
                       your external ip: server port number ipv4/6
 						(Server hoster)
+************************************************************
 
-						
+				
 ***************************
-Notice:
+**********NOTICE:**********
 ***************************
 If you pick a different server you can use any public server on 1.21.81.X
 some mod servers can work to but I have never attempted.
